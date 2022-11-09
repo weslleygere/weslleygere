@@ -2,9 +2,10 @@
 
 ### <p align="center"> ⚛️ B.Sc and M.Sc in Physics at [UEL](https://portal.uel.br/home/) | 💻 Resident in Artificial Intelligence at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
   
-- As researcher in physics, I was focused on topological quantum field theories and its application in condensed matter.
-- As AI student, I am learning Python focused on Data Science and Machine Learning.
-- I am also passionate about music and acoustic. I have worked on some projects of room acoustic modeling and simulation.
+- 🧑‍🔬 As physics researcher, I was focused on topological quantum field theories and its application in condensed matter.
+- ✏️ At the moment, I am learning Python focused on Data Science and Machine Learning, and applying the knowledge acquired in real projects for industries.
+- 🎶 I am also passionate about music and acoustic, and I have worked on some projects of room acoustic modeling and simulation.
+- 📫 How to reach me: weslleygeremias@gmail.com
 <!--
 **weslleygere/weslleygere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
