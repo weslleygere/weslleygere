@@ -2,6 +2,7 @@
 
 ### <p align="center"> ⚛️ B.Sc and M.Sc in Physics at [UEL](https://portal.uel.br/home/) | 💻 Artificial Intelligence student at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
   
+- As researcher, I'm
 
 <!--
 **weslleygere/weslleygere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
