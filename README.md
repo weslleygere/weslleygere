@@ -2,7 +2,7 @@
 
 ### <p align="center"> ⚛️ B.Sc and M.Sc in Physics at [UEL](https://portal.uel.br/home/) | 💻 Artificial Intelligence student at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
   
-- As researcher, I'm
+- As a physicist, I was focused on condensed matter physics researches, such as the low-energy effective descriptions for the integer and fractional quantum Hall states, string-net condensed states, and other strongly correlated quantum liquid states. 
 
 <!--
 **weslleygere/weslleygere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
