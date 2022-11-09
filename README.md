@@ -1,6 +1,6 @@
 ## <p align="center"> Hi 👋, I am Weslley Geremias 
 
-### <p align="center"> ⚛️ B.Sc and M.Sc in Physics at [UEL](https://portal.uel.br/home/) | 💻 Artificial Intelligence resident at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
+### <p align="center"> ⚛️ B.Sc and M.Sc in Physics at [UEL](https://portal.uel.br/home/) | 💻 Resident in Artificial Intelligence at [HUB-IA SENAI/PR](https://www.senaipr.org.br/tecnologiaeinovacao/nossarede/hubia/)
   
 - As researcher in physics, I was focused on topological quantum field theories and its application in condensed matter.
 - As AI student, I am learning Python focused on Data Science and Machine Learning.
