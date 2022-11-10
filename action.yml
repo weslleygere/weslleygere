@@ -7,7 +7,7 @@ runs:
   image: docker://platane/snk@sha256:89466e404c3d3ba2384e24aabad0542a643eacdc53d0c6320ce369cc1af19d56
 
 inputs:
-  github_user_name:
+  github_user_name: weslleygere
     description: "weslleygere"
     required: true
   outputs:
