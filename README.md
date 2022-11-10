@@ -7,6 +7,10 @@
 ##
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weslleygere&show_icons=true&theme=radical"/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleygere&show_icons=true&theme=radical"/>
+
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
  
 ## 
 
