@@ -5,7 +5,7 @@
 - 🌱 I am currently learning **Python** applied to **Machine Learning** and **Data Science**.
 - 🎶 I am also interested in music and acoustics, having worked on some projects of room acoustic simulation and auralization using [EASE](https://www.afmg.eu/en/ease-enhanced-acoustic-simulator-engineers) software.
 ##
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weslleygere&theme=gruvbox&show_icons=true"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weslleygere&theme=gruvbox&show_icons=true"/> 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleygere&theme=gruvbox&show_icons=true"/>
  
 ## 
